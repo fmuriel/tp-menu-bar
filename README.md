@@ -11,7 +11,7 @@ const integrantes = [
 
 const stack_usado = {
   markup: [HTML],
-  Styles: [CSS],
+  styles: [CSS],
 }
 ```
 
