@@ -133,7 +133,7 @@ ul.custom-ul {
 
 .vthree-promo-row {
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .vtwo-promo-row div:nth-child(2),
@@ -160,6 +160,10 @@ ul.custom-ul {
 .vthree-promo-row div:nth-child(2) p {
   color: #ffbf58;
   text-shadow: 2px 2px 0px #4d4d4d, 5px 4px 0px #ededed26;
+}
+
+.vtwo-promo-row:nth-child(5) {
+  margin-top: 2rem;
 }
 
 .vtwo-free-logo {
